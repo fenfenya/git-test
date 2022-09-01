@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("branch conflict master!");
         System.out.println("branch conflict hot-fix!");
         System.out.println("commit to GitHub!");
-        System.out.println("pull to GitHub!");       
+        System.out.println("pull to IDEA!");       
     }
 }
